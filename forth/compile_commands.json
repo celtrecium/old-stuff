@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/forth.c.o -c /home/celt/coding/forth/src/forth.c",
+  "file": "/home/celt/coding/forth/src/forth.c"
+},
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/hashtable.c.o -c /home/celt/coding/forth/src/hashtable.c",
+  "file": "/home/celt/coding/forth/src/hashtable.c"
+},
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/interpreter.c.o -c /home/celt/coding/forth/src/interpreter.c",
+  "file": "/home/celt/coding/forth/src/interpreter.c"
+},
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/lexer.c.o -c /home/celt/coding/forth/src/lexer.c",
+  "file": "/home/celt/coding/forth/src/lexer.c"
+},
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/stack.c.o -c /home/celt/coding/forth/src/stack.c",
+  "file": "/home/celt/coding/forth/src/stack.c"
+},
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/stdproc.c.o -c /home/celt/coding/forth/src/stdproc.c",
+  "file": "/home/celt/coding/forth/src/stdproc.c"
+},
+{
+  "directory": "/home/celt/coding/forth/build",
+  "command": "/usr/bin/cc -Dtdl_EXPORTS -I/home/celt/coding/forth/include -O3 -DNDEBUG -fPIC -std=c99 -pedantic -Wall -Wextra -Wsign-conversion -Wconversion -Wshadow -o CMakeFiles/tdl.dir/src/word.c.o -c /home/celt/coding/forth/src/word.c",
+  "file": "/home/celt/coding/forth/src/word.c"
+}
+]
